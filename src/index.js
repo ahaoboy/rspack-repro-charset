@@ -1,3 +1,2 @@
-import('./render').then(exports => {
-    exports.render()
-})
+const a = "󰋚";
+console.log("a", a);
